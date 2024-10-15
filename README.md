@@ -81,4 +81,3 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-You can copy and paste this formatted content into your README.md file on GitHub.
