@@ -1,23 +1,22 @@
+****🚜 Decentralized Farm Monitoring and Management 🌾
+****
+**Overview
+**
+**Decentralized Farm Monitoring and Management** is an innovative solution that combines IoT technology and blockchain to enhance transparency, efficiency, and trust in agricultural practices. Our application allows real-time monitoring of farm conditions while ensuring that all data is securely stored and easily accessible.
 
-```markdown
-# 🚜 Decentralized Farm Monitoring and Management 🌾
+Table of Contents
+Problem Statement
+Our Solution
+Key Features
+Installation
+Usage
+Future Enhancements
+Contributors
+License
 
-## Overview
 
-*Decentralized Farm Monitoring and Management* is an innovative solution that combines IoT technology and blockchain to enhance transparency, efficiency, and trust in agricultural practices. Our application allows real-time monitoring of farm conditions while ensuring that all data is securely stored and easily accessible.
-
-## Table of Contents
-- [Problem Statement](#problem-statement)
-- [Our Solution](#our-solution)
-- [Key Features](#key-features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Future Enhancements](#future-enhancements)
-- [Contributors](#contributors)
-- [License](#license)
-
-## Problem Statement
-
+**Problem Statement
+**
 Agriculture today faces several challenges:
 - Lack of trust and transparency between stakeholders.
 - No proof of proper farming conditions, leading to wrongful accusations.
