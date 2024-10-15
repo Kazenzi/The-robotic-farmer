@@ -59,6 +59,7 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
 2. **Interact with the Smart Contract:**
    - Use the `updateCID.js` script to update the IPFS CID for the latest sensor data:
    ```bash
+   cd scripts
    node updateCID.js
    ```
    - Confirm the transaction prompt in your MetaMask wallet when updating the CID.
