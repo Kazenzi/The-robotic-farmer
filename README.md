@@ -1,4 +1,3 @@
-Your README content looks great! Here is the formatted version with proper markdown:
 
 ```markdown
 # 🚜 Decentralized Farm Monitoring and Management 🌾
