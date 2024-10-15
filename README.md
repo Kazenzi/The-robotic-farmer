@@ -73,8 +73,8 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
 ## Contributors
 
 - [Samuel Njoroge](https://github.com/sammmmlikescoding)
-- [Team Member 1](https://github.com/team_member1)
-- [Team Member 2](https://github.com/team_member2)
+- [Team Member 1](https://github.com/kirushpeter)
+- [Team Member 2](https://github.com/Kazenzi)
 
 ## License
 
