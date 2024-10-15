@@ -37,30 +37,30 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
 
 ## Installation
 
-1. *Clone the Repository:*
-   bash
+1. **Clone the Repository:**
+   ```bash
    git clone https://github.com/yourusername/agriculture-base-africa.git
    cd agriculture-base-africa
-   
+   ```
 
-2. *Install Dependencies:*
-   bash
+2. **Install Dependencies:**
+   ```bash
    npm install
-   
+   ```
 
 ## Usage
 
-1. *Run the Application:* Start the application by running:
-   bash
+1. **Run the Application:** Start the application by running:
+   ```bash
    node index.js
-   
+   ```
    You will be prompted by your wallet (MetaMask or similar) to confirm the transaction for gas fees.
 
-2. *Interact with the Smart Contract:*
-   - Use the updateCID.js script to update the IPFS CID for the latest sensor data:
-   bash
+2. **Interact with the Smart Contract:**
+   - Use the `updateCID.js` script to update the IPFS CID for the latest sensor data:
+   ```bash
    node updateCID.js
-   
+   ```
    - Confirm the transaction prompt in your MetaMask wallet when updating the CID.
 
 ## Future Enhancements
