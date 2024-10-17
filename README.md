@@ -2,7 +2,7 @@
 
 ## Overview
 
-*Decentralized Robotic Farming* a.k.a "The Robotic Farmer" is an innovative solution that combines IoT technology and blockchain to enhance transparency, efficiency, and trust in agricultural practices. Our application enables real-time monitoring of farm conditions and automatic mechanized responses to address issues, all while securely storing farming data for easy access.
+*Decentralized Robotic Farming* a.k.a "The Robotic Farmer" is an innovative solution that combines IoT technology and blockchain to enhance transparency, efficiency, and trust in agricultural practices. Our application enables real-time monitoring of farm conditions and automatic mechanized responses to address issues, all while securely storing farming data for easy access. By integrating cutting-edge technology, The Robotic Farmer aims to improve crop yields, reduce resource wastage, and foster a more sustainable agricultural ecosystem.
 
 ## <u>Table of Contents</u>
 - [Problem Statement](#problem-statement)
@@ -41,8 +41,8 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/agriculture-base-africa.git
-   cd agriculture-base-africa
+   git clone https://github.com/Kazenzi/The-robotic-farmer.git
+   cd The-robotic-farmer
    ```
 
 2. **Install Dependencies:**
@@ -71,7 +71,7 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
 - *Automatic Alerts*: Notifications for critical thresholds (e.g., low water levels).
 - *Gas Fee Estimation*: Display gas fee estimates before transactions.
 - *Offline Functionality*: Access sensor data offline.
-- *Data Visualizations*: Implement charts for data trends over time.
+- *Data Visualizations*: Implement charts for data trends over time to help farmers make informed decisions.
 
 ## Contributors
 
