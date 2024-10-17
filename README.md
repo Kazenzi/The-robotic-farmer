@@ -1,8 +1,8 @@
-# 🚜 Decentralized Farm Monitoring and Management 🌾
+# 🚜 Decentralized Robotic Farming 🌾
 
 ## Overview
 
-*Decentralized Farm Monitoring and Management* is an innovative solution that combines IoT technology and blockchain to enhance transparency, efficiency, and trust in agricultural practices. Our application allows real-time monitoring of farm conditions while ensuring that all data is securely stored and easily accessible.
+*Decentralized Robotic Farming* a.k.a "The Robotic Farmer" is an innovative solution that combines IoT technology and blockchain to enhance transparency, efficiency, and trust in agricultural practices. Our application enables real-time monitoring of farm conditions and automatic mechanized responses to address issues, all while securely storing farming data for easy access.
 
 ## <u>Table of Contents</u>
 - [Problem Statement](#problem-statement)
@@ -18,6 +18,7 @@
 
 Agriculture today faces several challenges:
 - Lack of trust and transparency between stakeholders.
+- Absence of mechanized systems to respond to changing conditions.
 - No proof of proper farming conditions, leading to wrongful accusations.
 - Limited access to reliable, data-driven decision-making tools.
 
@@ -25,6 +26,7 @@ Agriculture today faces several challenges:
 
 We leverage IoT-enabled agriculture combined with Web 3 integration to create a robust platform for monitoring and managing farm conditions:
 - *Real-time Monitoring*: Continuous data collection from various sensors.
+- *Autonomous Robotics*: Implementation of robotic systems that autonomously perform tasks such as irrigation and fertilization based on real-time data.
 - *Blockchain Storage*: Immutable records stored on IPFS, ensuring tamper-proof data.
 - *Smart Contracts*: Automated updates and audits for all farm operations.
 
