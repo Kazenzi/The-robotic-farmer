@@ -1,4 +1,4 @@
-# 🚜 Decentralized Robotic Farming 🌾
+# 🚜 Decentralized Robotic Farming 🤖
 
 ## Overview
 
