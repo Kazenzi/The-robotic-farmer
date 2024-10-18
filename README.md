@@ -4,6 +4,10 @@
 
 *Decentralized Robotic Farming* a.k.a "The Robotic Farmer" is an innovative solution that combines IoT technology and blockchain to enhance transparency, efficiency, and trust in agricultural practices. Our application enables real-time monitoring of farm conditions and automatic mechanized responses to address issues, all while securely storing farming data for easy access. The Robotic Farmer aims to improve crop yields, reduce resource wastage, and foster a more sustainable agricultural ecosystem.
 
+Our application applies the use of a smart contract deployed on the Base Mainnet. To verify, click [here](https://basescan.org/tx/0xa0cec8370d50e3738e3875305d2406a3c49cf04a951348cc5778b26b3b8fc69f) (or paste the contract address below into BaseScan to view more details).
+Contract Address: 0xcbb03c0470c16f5e1065cc8379252062e0d8d3d4
+To explore further details, visit [BaseScan](https://basescan.org/) and paste the contract address.
+
 ## <u>Table of Contents</u>
 - [Problem Statement](#problem-statement)
 - [Our Solution](#our-solution)
