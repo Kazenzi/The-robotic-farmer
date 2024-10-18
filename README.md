@@ -8,7 +8,7 @@ Our application applies the use of a smart contract deployed on the Base Mainnet
 
 Contract Address: 0xcbb03c0470c16f5e1065cc8379252062e0d8d3d4
 
-To explore further details, visit [BaseScan](https://basescan.org/) and paste the contract address.
+To explore further details, visit [BaseScan](https://basescan.org/) and paste the contract address above.
 
 ## <u>Table of Contents</u>
 - [Problem Statement](#problem-statement)
