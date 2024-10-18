@@ -7,6 +7,7 @@
 Our application applies the use of a smart contract deployed on the Base Mainnet. To verify, click [here](https://basescan.org/tx/0xa0cec8370d50e3738e3875305d2406a3c49cf04a951348cc5778b26b3b8fc69f) (or paste the contract address below into BaseScan to view more details).
 
 Contract Address: 0xcbb03c0470c16f5e1065cc8379252062e0d8d3d4
+
 To explore further details, visit [BaseScan](https://basescan.org/) and paste the contract address.
 
 ## <u>Table of Contents</u>
