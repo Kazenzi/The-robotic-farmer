@@ -43,6 +43,10 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
 - *Transparent Record-Keeping*: Immutable records on the blockchain provide legal protection for farmers.
 - *Data Accessibility*: Stakeholders can access real-time data and historical records through an intuitive dashboard.
 
+![Alt text](https://github.com/Kazenzi/The-robotic-farmer/blob/master/mkulima_hardware_side.png
+)
+![Alt text](https://github.com/Kazenzi/The-robotic-farmer/blob/master/mkulima_hardware_top.png)
+
 ## Installation
 
 1. **Clone the Repository:**
