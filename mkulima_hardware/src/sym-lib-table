@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "usb_evda_hubX_v06-rescue")(type "Legacy")(uri "/Users/simonndungu/Documents/KiCad/usb_evda_hubX_v06(b)/src_files/usb_evda_hubX_v06-rescue.lib")(options "")(descr ""))
+  (lib (name "fridgeduino-rescue")(type "Legacy")(uri "/Users/simonndungu/Documents/KiCad/fridgeduino/src_files/fridgeduino-rescue.lib")(options " pwr_sym_only")(descr ""))
+  (lib (name "solar_charger_controller_mwangi-rescue")(type "Legacy")(uri "/Users/simonndungu/Documents/KiCad/solar_charger_controller_mwangi/src_files/solar_charger_controller_mwangi-rescue.lib")(options "")(descr ""))
+)
