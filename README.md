@@ -6,9 +6,9 @@
 
 Our application applies the use of a smart contract deployed on the Base Mainnet. To verify, click [here](https://basescan.org/tx/0xa0cec8370d50e3738e3875305d2406a3c49cf04a951348cc5778b26b3b8fc69f) 
 
-Contract Address: 0xcbb03c0470c16f5e1065cc8379252062e0d8d3d4
-
 Proof that we have made 1+ transactions on Base for the project: [Transactions Made by mrsamuelkaruingi.base.eth](https://basescan.org/address/0xe854a712AE100D1089e1490179Ea1C1F786b56cc)
+
+Contract Address: 0xcbb03c0470c16f5e1065cc8379252062e0d8d3d4
 
 To explore further details, visit [BaseScan](https://basescan.org/) and paste the contract address above.
 
