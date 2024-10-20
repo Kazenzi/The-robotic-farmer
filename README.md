@@ -45,7 +45,7 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
   
 ![Alt text](https://github.com/Kazenzi/The-robotic-farmer/blob/master/mkulima_hardware_top.png)
 ![Alt text](https://github.com/Kazenzi/The-robotic-farmer/blob/master/mkulima_hardware_page-0005.jpg)
-![Alt text](https://github.com/Kazenzi/The-robotic-farmer/blob/master/raw.jpeg)
+ <img src="https://github.com/Kazenzi/The-robotic-farmer/blob/master/raw.jpeg" alt="Description" width="300">
 
 ## Installation
 
