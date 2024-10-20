@@ -8,6 +8,8 @@ Our application applies the use of a smart contract deployed on the Base Mainnet
 
 Contract Address: 0xcbb03c0470c16f5e1065cc8379252062e0d8d3d4
 
+Proof that we have made 1+ transactions on Base for the project: [Transactions Made by mrsamuelkaruingi.base.eth](https://basescan.org/address/0xe854a712AE100D1089e1490179Ea1C1F786b56cc)
+
 To explore further details, visit [BaseScan](https://basescan.org/) and paste the contract address above.
 
 ## <u>Table of Contents</u>
