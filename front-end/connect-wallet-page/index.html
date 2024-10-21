@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Robotic Farmer</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap'>
+  <link rel="stylesheet" href="/src/bootstrap.css" />
+  <link rel="stylesheet" href="/src/style.scss" />
+  <link rel="stylesheet" href="./style.css">
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(to right, #6a11cb, #2575fc);
+      color: #fff;
+      text-align: center;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+    }
+
+    .container {
+      background: rgba(255, 255, 255, 0.1);
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    }
+
+    .logo {
+      width: 100px;
+      height: auto;
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+
+    .wallet-button {
+      background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 5px;
+      cursor: pointer;
+      border-radius: 5px;
+      transition: background-color 0.3s;
+    }
+
+    .wallet-button:hover {
+      background-color: #45a049;
+    }
+
+    .footer {
+      margin-top: 20px;
+      font-size: 14px;
+    }
+
+    .footer span {
+      margin: 0 10px;
+      cursor: pointer;
+      color: #ffdd57;
+    }
+  </style>
+</head>
+<body>
+  <div class="screen-1">
+    <div class="logo-cointainer">
+      <img src="./robot-farmer.jpg" alt="The Robotic Farmer Logo" class="logo" />
+      <h1>The Robotic Farmer</h1>
+    </div>
+    <svg class="logo" xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 640 480" xml:space="preserve">
+        <!-- SVG Logo here -->
+    </svg>
+    <h1>Connect Your Wallet</h1>
+    <button class="wallet-button" id="metamask">Connect MetaMask</button>
+    <button class="wallet-button" id="walletconnect">Connect Coinbase Wallet</button>
+    <button class="wallet-button" id="smartwallet">Connect Smart Wallet</button>
+</div>
+
+<div id="root"></div>
+
+<script type="module" src="https://unpkg.com/ethers/dist/ethers.min.js"></script>
+<script type="module" src="/src/main.tsx"></script>
+<script>
+    document.getElementById('metamask').addEventListener('click', async () => {
+        if (window.ethereum) {
+            try {
+                await window.ethereum.request({ method: 'eth_requestAccounts' });
+                // Logic after connecting
+                window.location.href = 'https://mkulima-bora.netlify.app/';
+            } catch (error) {
+                console.error('MetaMask connection error:', error);
+            }
+        } else {
+            alert('Please install MetaMask!');
+        }
+    });
+
+    document.getElementById('walletconnect').addEventListener('click', async () => {
+        alert('WalletConnect clicked! Implement WalletConnect logic.'); // Placeholder for logic
+    });
+
+    document.getElementById('smartwallet').addEventListener('click', async () => {
+        alert('Smart Wallet clicked! Implement Smart Wallet logic.'); // Placeholder for logic
+    });
+</script>
+</body>
+</html>
