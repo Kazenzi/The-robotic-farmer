@@ -51,8 +51,7 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
     <img src="https://github.com/Kazenzi/The-robotic-farmer/blob/master/raw.jpeg" alt="Description" width="300">
 </div>  
 
-
-
+<br><br>
 
 ## Research Avenues
 1. Computer and Electrical/Electronics Engineering
@@ -61,8 +60,7 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
 4. Instrumentation and Control
 5. Physics and Solar Energy
    
-
-
+<br><br><br>
 
 ## Installation
 
