@@ -16,6 +16,7 @@ To explore further details, visit [BaseScan](https://basescan.org/) and paste th
 - [Problem Statement](#problem-statement)
 - [Our Solution](#our-solution)
 - [Key Features](#key-features)
+- [Research Avenues](#research-avenues)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Future Enhancements](#future-enhancements)
