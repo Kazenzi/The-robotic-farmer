@@ -49,7 +49,8 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
 ![Alt text](https://github.com/Kazenzi/The-robotic-farmer/blob/master/mkulima_hardware_page-0005.jpg)
 <div align="center">
     <img src="https://github.com/Kazenzi/The-robotic-farmer/blob/master/raw.jpeg" alt="Description" width="300">
-</div>
+</div>  
+
 
 
 
@@ -59,6 +60,7 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
 3. Microprocessor Technology/ Embedded Systems 
 4. Instrumentation and Control
 5. Physics and Solar Energy
+   
 
 
 
