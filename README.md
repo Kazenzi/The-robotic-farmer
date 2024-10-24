@@ -69,7 +69,7 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
 
 ## Installation
 
-**NOTE:** Code to control the hardware can be found in "mkulima_hardware/src". For IoT development strictly use equipment and documentation as specified.
+**NOTE:** Code to control the hardware can be found in "mkulima_hardware/src". For IoT development strictly use equipment and documentation as specified. 
 
 1. **Clone the Repository:**
    ```bash
@@ -97,6 +97,7 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
    node updateCID.cjs
    ```
    - Confirm the transaction prompt in your MetaMask wallet when updating the CID.
+   - You can use mock data to test the application if you do not have sensors.
 
 ## Future Enhancements
 
