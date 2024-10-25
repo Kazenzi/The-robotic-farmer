@@ -1,7 +1,10 @@
 # 🚜 Decentralized Robotic Farming 🤖
 
-[![Video Title](http://img.youtube.com/vi/3aW1EPtWOO4/0.jpg)](http://www.youtube.com/watch?v=3aW1EPtWOO4)
-
+<a href="http://www.youtube.com/watch?v=3aW1EPtWOO4" target="_blank" style="position: relative; display: inline-block;">
+  <img src="http://img.youtube.com/vi/3aW1EPtWOO4/0.jpg" alt="Video Title" style="display: block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" 
+       style="position: absolute; top: 10px; right: 10px; width: 40px; height: auto;">
+</a>
 
 ## Overview
 
