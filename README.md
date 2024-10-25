@@ -1,5 +1,6 @@
 # 🚜 Decentralized Robotic Farming 🤖
 
+Click the Youtube Thumbnail below for a youtube demo video: 
 <div align="center">
   <a href="http://www.youtube.com/watch?v=3aW1EPtWOO4" target="_blank" style="position: relative; display: inline-block;">
     <img src="http://img.youtube.com/vi/3aW1EPtWOO4/0.jpg" alt="Video Title" style="display: block;">
