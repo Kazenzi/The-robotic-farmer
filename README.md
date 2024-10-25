@@ -1,8 +1,4 @@
-<div align="center">
-  
 # 🚜 Decentralized Robotic Farming 🤖
-
-</div>
 
 <div align="center">
   <a href="http://www.youtube.com/watch?v=3aW1EPtWOO4" target="_blank" style="position: relative; display: inline-block;">
