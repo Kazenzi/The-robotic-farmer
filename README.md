@@ -1,5 +1,8 @@
 # 🚜 Decentralized Robotic Farming 🤖
 
+[![Video Title](http://img.youtube.com/vi/3aW1EPtWOO4/0.jpg)](http://www.youtube.com/watch?v=3aW1EPtWOO4)
+
+
 ## Overview
 
 *Decentralized Robotic Farming* a.k.a "The Robotic Farmer" is an innovative solution that combines IoT technology and blockchain to enhance transparency, efficiency, and trust in agricultural practices. Our application enables real-time monitoring of farm conditions and automatic mechanized responses to address issues, all while securely storing farming data for easy access. The Robotic Farmer aims to improve crop yields, reduce resource wastage, and foster a more sustainable agricultural ecosystem.
