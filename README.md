@@ -1,16 +1,14 @@
+<div align="center">
 # 🚜 Decentralized Robotic Farming 🤖
-
-<div style="position: relative; width: 560px; height: 315px;">
-  <!-- YouTube iframe -->
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/3aW1EPtWOO4" frameborder="0" allowfullscreen></iframe>
-
-  <!-- Overlay YouTube logo -->
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" 
-         style="width: 60px; height: auto; opacity: 0.8;">
-  </div>
 </div>
 
+<div align="center">
+  <a href="http://www.youtube.com/watch?v=3aW1EPtWOO4" target="_blank" style="position: relative; display: inline-block;">
+    <img src="http://img.youtube.com/vi/3aW1EPtWOO4/0.jpg" alt="Video Title" style="display: block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" 
+         style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 15%; height: auto;">
+  </a>
+</div>
 
 ## Overview
 
