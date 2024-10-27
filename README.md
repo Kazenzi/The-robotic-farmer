@@ -100,14 +100,10 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
    You will be prompted by your wallet (MetaMask or similar) to confirm the transaction for gas fees.
 
 2. **Interact with the Smart Contract:**
-   - Use the `updateCID.js` script to update the IPFS CID for the latest sensor data:
-   ```bash
-   cd scripts
-   node updateCID.cjs
-   ```
-   - Confirm the transaction prompt in your MetaMask wallet when updating the CID.
+   The `updateCID.js` script should update the IPFS CID for the latest sensor data automatically.
+   - Confirm the transaction prompt when updating the CID.
    - You can use mock data to test the application if you do not have sensors.
-
+   
 ## Future Enhancements
 
 - *Automatic Alerts*: Notifications for critical thresholds (e.g., low water levels).
