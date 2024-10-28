@@ -98,8 +98,9 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
    node index.js
    ```
    You will be prompted by your wallet (MetaMask or similar) to confirm the transaction for gas fees.
-
-2. **Interact with the Smart Contract:**
+   As of the moment, the command will give you latest data from our testing phase but for more precise functionality, kindly use real sensors and connect the app to a bluetooth/wifi network to receive real-time data.
+   
+3. **Interact with the Smart Contract:**
    The `updateCID.js` script should update the IPFS CID for the latest sensor data automatically.
    - Confirm the transaction prompt when updating the CID.
    - You can use mock data to test the application if you do not have sensors.
