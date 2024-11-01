@@ -100,18 +100,19 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
    You will be prompted by your wallet (MetaMask or similar) to confirm the transaction for gas fees.
    As of the moment, the command will give you latest data from our testing phase but for more precise functionality, kindly use real sensors and connect the app to a bluetooth/wifi network to receive real-time data.
    
-3. **Interact with the Smart Contract:**
+2. **Interact with the Smart Contract:**
    The `updateCID.js` script should update the IPFS CID for the latest sensor data automatically.
    - Confirm the transaction prompt when updating the CID.
    - You can use mock data to test the application if you do not have sensors.
 
-4. **User Interface Interaction:**
+3. **User Interface Interaction:**
    Navigate directories to: "front-end/connect-wallet-page/index.html"
    - Host the app on a browser using preffered methods, e.g. Live Preview extension on VS Code...or the command 
 ```bash
  python3 -m http.server
 ```
-5. The front end is fully functional and user-friendly. Ensure all necessary requirements are installed to run the app on your machine.
+
+The front end is fully functional and user-friendly. Ensure all necessary requirements are installed to run the app on your machine.
    
 ## Future Enhancements
 
