@@ -104,6 +104,14 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
    The `updateCID.js` script should update the IPFS CID for the latest sensor data automatically.
    - Confirm the transaction prompt when updating the CID.
    - You can use mock data to test the application if you do not have sensors.
+
+4. **User Interface Interaction:**
+   Navigate directories to: "front-end/connect-wallet-page/index.html"
+   - Host the app on a browser using preffered methods, e.g. Live Preview extension on VS Code...or the command 
+```bash
+ python3 -m http.server
+```
+   - The front end is fully functional and user-friendly.Ensure all necessary requirements are installed to run the app on your machine.
    
 ## Future Enhancements
 
