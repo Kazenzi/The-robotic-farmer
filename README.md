@@ -111,7 +111,7 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
 ```bash
  python3 -m http.server
 ```
-   - The front end is fully functional and user-friendly.Ensure all necessary requirements are installed to run the app on your machine.
+5. The front end is fully functional and user-friendly. Ensure all necessary requirements are installed to run the app on your machine.
    
 ## Future Enhancements
 
