@@ -106,13 +106,32 @@
         }
     });
 
+     // Coinbase Wallet Connection
     document.getElementById('walletconnect').addEventListener('click', async () => {
-        alert('WalletConnect clicked! Implement WalletConnect logic.'); // Placeholder for logic
+        const { CoinbaseWalletSDK } = window;
+        const walletLink = new CoinbaseWalletSDK({
+            appName: "YourAppName",
+            appLogoUrl: "https://example.com/logo.png",
+            darkMode: false,
+        });
+
+        const ethereum = walletLink.makeWeb3Provider("https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID", 1);
+
+        try {
+            await ethereum.enable();
+            alert("Coinbase Wallet connected successfully!");
+            window.location.href = 'https://mkulima-bora.netlify.app/';
+        } catch (error) {
+            console.error('Coinbase Wallet connection error:', error);
+        }
     });
 
+    // Smart Wallet Connection (placeholder)
     document.getElementById('smartwallet').addEventListener('click', async () => {
-        alert('Smart Wallet clicked! Implement Smart Wallet logic.'); // Placeholder for logic
+        // Implement Smart Wallet SDK connection logic here
+        alert("Smart Wallet connection placeholder! Replace with SDK integration.");
     });
 </script>
+
 </body>
 </html>
