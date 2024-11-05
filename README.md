@@ -13,6 +13,8 @@ Click the Youtube Thumbnail below for a youtube demo video:
 
 *Decentralized Robotic Farming* a.k.a "The Robotic Farmer" is an innovative solution that combines IoT technology and blockchain to enhance transparency, efficiency, and trust in agricultural practices. Our application enables real-time monitoring of farm conditions and automatic mechanized responses to address issues, all while securely storing farming data for easy access. The Robotic Farmer aims to improve crop yields, reduce resource wastage, and foster a more sustainable agricultural ecosystem.
 
+Play with it live on: **[https://mkulima-welcome.vercel.app/](https://mkulima-welcome.vercel.app/)**
+
 Our application applies the use of a smart contract deployed on the Base Mainnet. To verify, click [here](https://basescan.org/tx/0xa0cec8370d50e3738e3875305d2406a3c49cf04a951348cc5778b26b3b8fc69f) 
 
 Proof that we have made 1+ transactions on Base for the project: [Transactions Made by mrsamuelkaruingi.base.eth](https://basescan.org/address/0xe854a712AE100D1089e1490179Ea1C1F786b56cc)
