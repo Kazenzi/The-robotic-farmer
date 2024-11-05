@@ -75,8 +75,7 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
 
 **5. Physics and Solar Energy**
    
-<br><br>
-
+<br>
 Play with it live on: **[https://mkulima-welcome.vercel.app/](https://mkulima-welcome.vercel.app/)**
 
 ## Installation
