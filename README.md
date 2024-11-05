@@ -94,6 +94,22 @@ Play with it live on: **[https://mkulima-welcome.vercel.app/](https://mkulima-we
    npm install
    ```
 
+   <br />
+
+## Locally run
+
+```sh
+# Install bun in case you don't have it
+curl -fsSL https://bun.sh/install | bash
+
+# Install packages
+bun i
+
+# Run Next app
+bun run dev
+```
+<br />
+
 ## Usage
 
 1. **Run the Application:** Start the application by running:
