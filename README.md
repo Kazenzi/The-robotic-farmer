@@ -77,7 +77,7 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
    
 <br>
 
-Play with it live on: [https://mkulima-welcome.vercel.app/](https://mkulima-welcome.vercel.app/)
+*Play with it live on: [https://mkulima-welcome.vercel.app/](https://mkulima-welcome.vercel.app/)*
 
 ## Installation
 
