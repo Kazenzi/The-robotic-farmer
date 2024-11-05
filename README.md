@@ -17,6 +17,7 @@ Our application applies the use of a smart contract deployed on the Base Mainnet
 
 Proof that we have made 1+ transactions on Base for the project: [Transactions Made by mrsamuelkaruingi.base.eth](https://basescan.org/address/0xe854a712AE100D1089e1490179Ea1C1F786b56cc)
 
+
 Contract Address: 0xcbb03c0470c16f5e1065cc8379252062e0d8d3d4
 
 To explore further details, visit [BaseScan](https://basescan.org/) and paste the contract address above.
@@ -76,6 +77,8 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
    
 <br><br>
 
+Play with it live on: **[https://mkulima-welcome.vercel.app/](https://mkulima-welcome.vercel.app/)**
+
 ## Installation
 
 **NOTE:** Code to control the hardware can be found in "mkulima_hardware/src". For IoT development strictly use equipment and documentation as specified. 
@@ -104,13 +107,6 @@ We leverage IoT-enabled agriculture combined with Web 3 integration to create a 
    The `updateCID.js` script should update the IPFS CID for the latest sensor data automatically.
    - Confirm the transaction prompt when updating the CID.
    - You can use mock data to test the application if you do not have sensors.
-
-3. **User Interface Interaction:**
-   Navigate directories to: "front-end/connect-wallet-page/index.html"
-   - Host the app on a browser using preffered methods, e.g. Live Preview extension on VS Code...or the command 
-```bash
- python3 -m http.server
-```
 
 The front end is fully functional and user-friendly. Ensure all necessary requirements are installed to run the app on your machine.
    
