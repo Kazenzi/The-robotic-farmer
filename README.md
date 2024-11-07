@@ -138,7 +138,6 @@ The front end is fully functional and user-friendly. Ensure all necessary requir
 ## Contributors
 
 - [Samuel Njoroge](https://github.com/sammmmlikescoding)
-- [Peter Kirumba](https://github.com/kirushpeter)
 - [Jacinta Kazenzi](https://github.com/Kazenzi)
 
 ## License
